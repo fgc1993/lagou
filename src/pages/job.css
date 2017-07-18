@@ -1,0 +1,21 @@
+.base{
+	flex: 1;
+	margin-bottom: 0.45rem;
+}
+header{
+	height: 0.45rem;
+	width: 100%;
+	background: #00b38a;
+	color: white;
+	font-size: 0.18rem;
+	text-align: center;
+	line-height: 0.45rem;
+}
+.more{
+	height: 0.45rem;
+	background: #ccc;
+   font-size: 0.15rem;
+   line-height: 0.45rem;
+   text-align: center;
+   background: #fafafa;
+}

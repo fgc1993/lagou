@@ -1,0 +1,52 @@
+.con{
+	height: 0.92rem;
+	border-top: 0.01rem solid #e8e8e8;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	padding:0.18rem;
+}
+
+.con .left{
+
+	width: 2.54rem;
+}
+.con .left dl{
+	
+	width: 2.54rem;
+	display: flex;
+	align-items: center;
+}
+.con .left dl dt{	
+	width: 0.64rem;
+	height: 0.3rem;
+}
+.con .left dl dd{
+	width: 1.9rem;
+	padding-left: 0.08rem;
+}
+.con .left dl dd h2{
+	font-size: 0.16rem;
+	margin-bottom:0.06rem;
+}
+.con .left dl dd .txt1{
+	font-size: 0.12rem;
+	color: #333333;
+	margin-bottom:0.06rem;
+}
+.con .left dl dd .txt2{
+	font-size: 0.1rem;
+	color: #888888;
+}
+.con .left dl dt img{
+	height: 100%;
+	width: 100%;
+}
+
+.con .right{
+	width: 1.6rem;
+	font-size: 0.16rem;
+	text-align: right;	
+	color: #37b38a;
+}

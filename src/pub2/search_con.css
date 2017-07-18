@@ -1,0 +1,43 @@
+.base{
+	flex: 1;
+	margin-bottom: 0.45rem;
+}
+header{
+	height: 0.45rem;
+	width: 100%;
+	background: #00b38a;
+	color: white;
+	font-size: 0.18rem;
+	text-align: center;
+	line-height: 0.45rem;
+}
+.base .base_con ul {
+	display: flex;
+	height: 0.45rem;
+	border-bottom: 0.01rem solid #e8e8e8;	
+	align-items: center;
+}
+.base .base_con ul li:nth-child(1){
+	height: 0.45rem;
+	width: 0.89rem;
+	text-align: center;
+	line-height: 0.45rem;
+	border-right: 0.01rem solid #e8e8e8;	
+}
+.base .base_con ul li:nth-child(2){
+	height: 0.44rem;
+    width: 2.26rem;
+}
+.base .base_con ul li:nth-child(2) input{
+	height: 0.44rem;
+    width: 2.26rem;
+    border: none;
+    margin-left: 0.15rem;
+    font-size: 0.15rem;
+}
+.base .base_con ul li:nth-child(3){
+	width:0.6rem;
+	text-align: center;
+	height: 0.44rem;
+	line-height: 0.44rem;
+}

@@ -1,0 +1,68 @@
+.box{
+	background:#008b6f;
+	height: 6.67rem;
+	width: 100%;
+	overflow: hidden;
+}
+
+.box .top1{
+	width:3.37rem;
+	height: 1.18rem;
+	margin:0.2rem auto; 	
+	
+}
+.box .top1 input{
+  border: none;
+  height: 0.59rem;
+  width: 100%;
+  font-size: 0.16rem;
+  background: #fff;
+  padding-left: 0.08rem;
+  font-family: Arial;
+  font-weight: 400;
+
+}
+.box .top1 input:nth-child(1){
+	border-bottom: 0.01rem solid #e0e0e0;
+	border-radius: 0.05rem 0.05rem 0 0;
+}
+.box .top1 input:nth-child(2){
+	
+	border-radius:0 0 0.05rem 0.05rem;
+}
+.box .p1,.p3{
+	width:3.37rem;
+	height: 0.6rem; 
+	
+	line-height: 0.6rem;
+}
+.box .p1{ margin: 0.2rem auto;}
+.box .p3{ margin: 0.1rem auto;}
+.box .p1 button{
+	background:#0ac599;
+	height: 0.6rem;
+	width: 3.37rem;
+	text-align: center;
+	border: none;
+	border-radius: 0.06rem;
+    font-size: 0.2rem;
+    color: white;
+
+}
+.box .p3 button{
+	border: 1px solid #45e3be;
+	height: 0.6rem;
+	width: 3.37rem;
+	text-align: center;
+    font-size: 0.2rem;
+	color: #45e3be;
+	background: #018d66;
+    border-radius: 0.06rem;
+}
+.box .p2{
+	width: 3.37rem;
+	height: 0.16rem;
+	margin: 0 auto;
+	color: #45e3be;
+	font-size: 0.13rem;
+}

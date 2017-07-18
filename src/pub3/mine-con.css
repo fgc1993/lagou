@@ -1,0 +1,47 @@
+.base1{
+	flex: 1;
+	margin-bottom: 0.45rem;
+}
+.base1 header{
+	height: 0.45rem;
+	width: 100%;
+	background: #00b38a;
+	color: white;
+	font-size: 0.18rem;
+	text-align: center;
+	line-height: 0.45rem;
+}
+.base1 .base_con1{
+	height: 1.11rem;
+	width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0.2rem 0;
+}
+.base1 .base_con1 p{
+	height: 0.45rem;
+	width: 1.25rem;
+	background: #1fc8a1;
+	text-align: center;
+	line-height: 0.45rem;
+	color: white;
+	font-size: 0.14rem;
+}
+.base1 .basecon1{
+	height: 1.92rem;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin:0.3rem 0;
+}
+.base1 .basecon1 li{
+	height: 0.86rem;
+	width: 46%;
+	background: #1fc8a1;
+	text-align: center;
+	line-height: 0.92rem;
+	color:white;
+	font-size: 0.16rem;
+}
